@@ -4,7 +4,7 @@ FoodFleet is a full stack web application for food delivery, featuring a robust 
 
 ---
 
-## 🚀 Features
+##  Features
 
 ### Backend (Spring Boot)
 - **User Authentication:** Admin and user login, registration, and role-based access
@@ -32,7 +32,7 @@ FoodFleet is a full stack web application for food delivery, featuring a robust 
 
 ---
 
-## 📁 Folder Structure
+##  Folder Structure
 ```
 FoodFleet/
 ├── src/
@@ -55,7 +55,7 @@ FoodFleet/
 
 ---
 
-## ⚡ Getting Started
+##  Getting Started
 
 ### Backend Setup (Spring Boot)
 1. **Configure PostgreSQL:**
@@ -93,7 +93,7 @@ FoodFleet/
 
 ---
 
-## 🧩 Customization & Contribution
+##  Customization & Contribution
 - Add/modify backend endpoints in `controllers/` and `services/`
 - Add new React pages/components in `frontend/FoodFleet/src/pages` or `components`
 - Update styling in `frontend/FoodFleet/src/index.css` or use Bootstrap classes
@@ -106,7 +106,7 @@ FoodFleet/
 
 ---
 
-## 📄 License
+##  License
 This project is open source and free to use for learning and portfolio purposes.
 
 ---
